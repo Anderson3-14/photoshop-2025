@@ -33,6 +33,3 @@ Many graphic formats are supported. Adobe Photoshop allows you to both
 create new images and edit them. Photoshop is used to create photorealistic images, 
 to work with color scanned images, for retouching, color correction, collage, transforming graphics, 
 color separation, etc. Adobe Photoshop has all the methods for working with point images, 
-while it has the ability to work with layers and uses contours. 
-Adobe Photoshop provides all the necessary tools for correction, 
-editing, preparing images for printing and high-quality output.
